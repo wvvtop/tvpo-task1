@@ -2,7 +2,6 @@ name: new_env
 channels:
   - defaults
 dependencies:
-  - _openmp_mutex=2.0
   - aom=3.13.2
   - blas=1.0
   - bzip2=1.0.8
